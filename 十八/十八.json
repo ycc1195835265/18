@@ -1,0 +1,125 @@
+{
+    "spider": "./新xyqxbpq.jar",
+    "notice": "加载不出请开🪜",
+    "sites": [
+        {
+            "key": "拼多多",
+            "name": "拼多多",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/拼多多.json"
+        },
+        {
+            "key": "天天",
+            "name": "天天",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/天天.json"
+        },
+        {
+            "key": "十九岁",
+            "name": "十九岁",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/十九岁影视.json"
+        },
+        {
+            "key": "七猫",
+            "name": "七猫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/七猫.json"
+        },
+        {
+            "key": "第一吃瓜网",
+            "name": "第一吃瓜网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/第一吃瓜网.json"
+        },
+        {
+            "key": "猫娘动漫",
+            "name": "猫娘动漫",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/猫娘动漫.json"
+        },
+        {
+            "key": "黄库",
+            "name": "黄库",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/黄库.json"
+        },
+        {
+            "key": "十三合一",
+            "name": "十三合一",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/十三合一.json"
+        },
+        {
+            "key": "玩物",
+            "name": "玩物",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/玩物.json"
+        },
+        {
+            "key": "404",
+            "name": "404",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/404truvaze.json"
+        },
+        {
+            "key": "花都",
+            "name": "花都",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/花都.json"
+        },
+        {
+            "key": "爱了爱了",
+            "name": "爱了爱了",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/爱了爱了.json"
+        },
+        {
+            "key": "XSMJAV",
+            "name": "XSMJAV",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/XSMJAV.json"
+        },
+        {
+            "key": "truvaze",
+            "name": "truvaze",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/truvaze.json"
+        },
+        {
+            "key": "假miss",
+            "name": "假miss🪜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/假miss.json"
+        },
+        {
+            "key": "极乐禁区",
+            "name": "极乐禁区",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/极乐禁区.json"
+        },
+        {
+            "key": "茶余瓜报",
+            "name": "茶余瓜报",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/茶余瓜报.json"
+        }
+    ]
+}
