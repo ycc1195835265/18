@@ -1,5 +1,5 @@
 const config = {
-    host: 'https://bb.111848.xyz/',/*Emby服务器URL (例如 http://localhost:8096)*/
+    host: 'https://bb.emby.edu.kg/',/*Emby服务器URL (例如 http://localhost:8096)*/
     userId: "afccb978-114d-4929-9ec6-6fc9c52223b4",/*Emby_userId (通过账号密码获取)*/
     token: "40afd058a9db42deb4eddd6051ad9268",/*Emby_token (通过账号密码获取)*/
     deviceId: "1201bf01-e9ba-4012-8874-b7f3ab9c21e4",
