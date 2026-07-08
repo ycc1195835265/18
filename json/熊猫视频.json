@@ -1,0 +1,11 @@
+{
+    "站名": "熊猫视频",
+    "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 13; M2102J2SC Build/TKQ1.221114.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/147.0.7727.14 Mobile Safari/537.36#Content-Type$application/json#Cookie$JSESSIONID=3BF58015DBF55E386170F7F5976CC0D8",
+    "分类url": "https://spiderscloudcn2.51111666.com/forward;post;{\"command\":\"WEB_GET_INFO\",\"pageNumber\":{catePg},\"RecordsPage\":20,\"typeId\":{cateId},\"typeMid\":1,\"languageType\":\"CN\",\"content\":\"\"};;z",
+    "分类": "91传媒$6#精东传媒$7#麻豆传媒$8#麻豆映画$9#麻豆猫爪$10#蜜桃传媒$11#天美传媒$12#星空传媒$13#偷拍自拍$14#日韩视频$15#欧美性爱$16#智能换脸$17#经典三级$18#网红主播$19#台湾辣妹$20#onlyfans$21#中文字幕$22#经典素人$23#高清无码$24#美颜巨乳$25#丝袜制服$26#SM系列$27#欧美系列$28#H動畫$29",
+    "数组": "j:data.resultList",
+    "图片": "j:vod_pic",
+    "标题": "j:vod_name",
+    "链接": "https://www.88xqq.com/moviePlayer.html?id=+j:id+&type_Mid=1",
+    "搜索url": "https://spiderscloudcn2.51111666.com/forward;post;{\"command\":\"WEB_GET_INFO\",\"pageNumber\":1,\"RecordsPage\":20,\"typeId\":\"0\",\"typeMid\":\"1\",\"languageType\":\"CN\",\"content\":\"{wd}\",\"type\":\"1\"}"
+}
