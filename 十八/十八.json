@@ -1,0 +1,328 @@
+{
+    "spider": "./新xyqxbpq.jar",
+    "notice": "加载不出请开🪜",
+    "sites": [
+    {
+            "key": "黄色仓库",
+            "name": "🔞黄色仓库[采集]",
+            "type": 1,
+            "api": "https://hsckzy888.com/api.php/provide/vod/",
+            "categories": [
+                "网红主播",
+                "国产传媒",
+                "探花系列",
+                "人妻熟女",
+                "日本无码",
+                "美乳巨乳",
+                "强制侵犯",
+                "制服诱惑",
+                "绝色佳人",
+                "风俗泡泡浴",
+                "家庭乱伦",
+                "AV解说",
+                "三级电影",
+                "少女萝莉",
+                "SM调教",
+                "绝顶潮吹",
+                "魔镜系列",
+                "时间停止",
+                "催眠洗脑",
+                "漫改系列",
+                "电车痴汉",
+                "淫欲痴女",
+                "AI换脸",
+                "网爆门",
+                "TS专区",
+                "女性向系列",
+                "女同性恋",
+                "男同性恋",
+                "欧美精品",
+                "国产自拍",
+                "日本动漫",
+                "3D动漫",
+                "韩国主播",
+                "泰国风情",
+                "OnlyFans"
+            ]
+        },
+        {
+            "key": "XMVideo",
+            "name": "🔞熊猫视频[JAR]",
+            "type": 3,
+            "api": "csp_XMVideo",
+            "searchable": 1,
+            "filterable": 1
+        },
+        {
+            "key": "步兵Emby",
+            "name": "🔞步兵营地[emby]🪜",
+            "type": 3,
+            "api": "./js/步兵Emby.js",
+            "changeable": 1
+        },
+        {
+            "key": "HGEmby",
+            "name": "🔞HG[emby]🪜",
+            "type": 3,
+            "api": "./js/HGEmby.js",
+            "changeable": 1
+        },
+        {
+            "key": "海角网",
+            "name": "🔞海角网[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/海角网.json"
+        },
+        {
+            "key": "AVHUB",
+            "name": "🔞AVHUB[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/AVHUB.json"
+        },
+        {
+            "key": "18J",
+            "name": "🔞18J[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/18j.json"
+        },
+        {
+            "key": "一起草",
+            "name": "🔞一起草[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/一起草.json"
+        },
+        {
+            "key": "91黑料网",
+            "name": "🔞91黑料网[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/91黑料网.json"
+        },
+        {
+            "key": "多杏",
+            "name": "🔞多杏tv[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/多杏tv.json"
+        },
+        {
+            "key": "擦边",
+            "name": "🔞擦边[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/擦边.json"
+        },
+        {
+            "key": "降龙十八掌",
+            "name": "🔞降龙十八掌[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/降龙十八掌.json"
+        },
+        {
+            "key": "蜜桃",
+            "name": "🔞蜜桃[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/蜜桃.json"
+        },
+        {
+            "key": "91吃瓜",
+            "name": "🔞91吃瓜[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/91吃瓜.json"
+        },
+        {
+            "key": "51吃瓜",
+            "name": "🔞51吃瓜[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/51吃瓜.json"
+        },
+        {
+            "key": "熊猫xbpq",
+            "name": "🔞熊猫[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/熊猫视频.json"
+        },
+        {
+            "key": "montv",
+            "name": "🔞MonTV[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/montv.json"
+        },
+        {
+            "key": "熄灯",
+            "name": "🔞熄灯[xbpq]",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "api": "csp_XBPQ",
+            "ext": "./json/熄灯.json"
+        },
+        {
+            "key": "小土豆",
+            "name": "🔞小土豆[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/小土豆.json"
+        },
+        {
+            "key": "X采集",
+            "name": "🔞X采集[xbpq]🪜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/X采集.json"
+        },
+        {
+            "key": "青禾午夜",
+            "name": "🔞青禾午夜[xbpq]🪜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/青禾午夜.json"
+        },
+        {
+            "key": "91情报局",
+            "name": "🔞91情报局[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "ext": "./json/91情报.json"
+        },
+        {
+            "key": "拼多多",
+            "name": "🔞拼多多[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/拼多多.json"
+        },
+        {
+            "key": "天天",
+            "name": "🔞天天[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/天天.json"
+        },
+        {
+            "key": "十九岁",
+            "name": "🔞十九岁[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/十九岁影视.json"
+        },
+        {
+            "key": "七猫",
+            "name": "🔞七猫[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/七猫.json"
+        },
+        {
+            "key": "第一吃瓜网",
+            "name": "🔞第一吃瓜网[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/第一吃瓜网.json"
+        },
+        {
+            "key": "猫娘动漫",
+            "name": "🔞猫娘动漫[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/猫娘动漫.json"
+        },
+        {
+            "key": "黄库",
+            "name": "🔞黄库[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/黄库.json"
+        },
+        {
+            "key": "十三合一",
+            "name": "🔞十三合一[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/十三合一.json"
+        },
+        {
+            "key": "玩物",
+            "name": "🔞玩物[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/玩物.json"
+        },
+        {
+            "key": "404",
+            "name": "🔞404[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/404truvaze.json"
+        },
+        {
+            "key": "花都",
+            "name": "🔞花都[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/花都.json"
+        },
+        {
+            "key": "爱了爱了",
+            "name": "🔞爱了爱了[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/爱了爱了.json"
+        },
+        {
+            "key": "XSMJAV",
+            "name": "🔞XSMJAV[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/XSMJAV.json"
+        },
+        {
+            "key": "truvaze",
+            "name": "🔞truvaze[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/truvaze.json"
+        },
+        {
+            "key": "假miss",
+            "name": "🔞假miss[xbpq]🪜",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/假miss.json"
+        },
+        {
+            "key": "极乐禁区",
+            "name": "🔞极乐禁区[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/极乐禁区.json"
+        },
+        {
+            "key": "茶余瓜报",
+            "name": "🔞茶余瓜报[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/茶余瓜报.json"
+        },
+        {
+            "key": "小丑",
+            "name": "🔞小丑[xbpq]",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./json/小丑.json"
+        }
+    ]
+}
