@@ -1,0 +1,32 @@
+{
+    "作者": "h",
+    "站名": "海角网",
+    "请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 16；； 2510DRK44C Build/BP2A.250605.031.A3) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/143.0.7499.192 Mobile Safari/537.36",
+    "境外永久": "https://hjw2026.com/,https://gitlab.com/haijiaowang/hjw,https://hjwang17.com/,https://hjwang18.com/,https://hjwang19.com/,https://hjwang20.com/",
+    "发布页": "https://hjw2026.com/",
+    "key截取": "{{发布页}}[工具:源码#key:*\"截取\"]",
+    "key": "{{key截取}}[工具:SHA]",
+    "iv": "{{key}}[工具:1截取16]",
+    "后缀": "{{发布页}}[工具:源码#data:*\"截取\"#解aes-{{key}}-{{iv}}-AES/CBC/PKCS7Padding#\"zz_line\":*\"截取\"]",
+    "域名-c": "https://cnmlgb.{{后缀}}/",
+	"数组": "<div class=\"xqbj-list-rows-image\">&&<div class=\"xqbj-list-rows-bottom-tags-text is-mobile\">||📌海角标签--<div class=\"tags-group\">&&<nav role=\"navigation\"分割(后:/h3>)||📌原创主,📌UP主,📌入驻创作者--<div class=\"rank-card\">&&<div class=\"bottom||海角热搜--<div class=\"content\">&&</a>||海角往期--<div class=\"da&&</li>",
+	"标题": "title=\"&&\"||📌海角标签--aria-label=\"&&\"||海角热搜,📌原创主,📌UP主,📌入驻创作者--<h2>&&</h2>||海角往期--<h3>&&</h3>",
+	"副标题": "<div class=\"xqbj-list-rows-bottom-tags-text is-desktop\">&&</div>||📌海角标签--<h3>*(&&)||📌原创主,📌UP主,📌入驻创作者--<div class=\"item\"><span>&&</span>粉丝+粉丝||海角热搜--<span>&&</span>||海角往期--te\">&&</div>",
+	"简介": "<div class=\"text text-content\">*<p>&&</p>[不包含:请截图保存下图]",
+	"图片": "{{前缀}}+z-image-loader-url=\"`&&`\"[工具:源码转b64#解密aes-f5d965df75336270-97b60394abc2fbe1-AES/CBC/PKCS7Padding]",
+    "前缀": "data:image/jpeg;base64,",
+	"链接": "<a href=\"&&\"||📌海角标签--<a href=\"&&\"+{catePg}/[<a href=\"&&\"]||📌原创主,📌UP主,📌入驻创作者--<a href=\"&&\"+page/{catePg}/[<a href=\"&&\"]",
+    "播放数组": "<div class=\"videoplayer dplayer&&<blockquote>",//覆盖全部播放内容
+    "播放列表": "tjtagmanager\"&&</div>",//覆盖单集内容
+    "播放标题": "data-video_id=\"&&\"",//标题
+    "播放链接": "\"video\":{\"url\":\"&&\"",//可以是链接，也可以是跳转播放链接
+	"嗅探词": ".m3u8",
+	"直接播放": "",
+	"搜索模式": "1",
+    "二级目录": "📌海角标签,📌原创主,📌UP主,📌入驻创作者|folder-0-0-H",
+    "二级ID": "",
+    "特殊分类链接": "海角首页${{域名-c}}page/{catePg}/[{{域名-c}}]#海角热门&{{域名-c}}order/hot/page/{catePg}/[{{域名-c}}order/hot/]#今日更新${{域名-c}}order/today/page/{catePg}/[{{域名-c}}order/today/]#海角热搜${{域名-c}}authors_hot/page/{catePg}/[{{域名-c}}authors_hot/]#海角往期${{域名-c}}date/page/{catePg}/[{{域名-c}}date/]#📌海角标签${{域名-c}}tags/page/{catePg}/[{{域名-c}}tags/]#📌原创主${{域名-c}}authors_blogger/original/page/{catePg}/[{{域名-c}}authors_blogger/original/]#📌UP主${{域名-c}}authors_blogger/creator/page/{catePg}/[{{域名-c}}authors_blogger/creator/]#📌入驻创作者${{域名-c}}authors_blogger/enter/page/{catePg}/[{{域名-c}}authors_blogger/enter/]",
+	"搜索url": "{{域名-c}}search_contents/{wd}/[{{域名-c}}search_contents/{wd}/{pg}]/",
+    "分类url": "{{域名-c}}{cateId}/{catePg}/[{{域名-c}}{cateId}/]",
+    "分类": "海角首页#海角热门#今日更新#海角社区$communitys#海角乱伦$category/hjll#海角原创$category/hjyc#海角吃瓜$category/hjcg#海角看片$category/hjkp#海角网黄$category/hjwh#海角探花$category/hjth#海角动漫$category/hjdm#海角搬运$category/hjby#海角热搜#海角往期#📌海角标签#📌原创主#📌UP主#📌入驻创作者"
+}
